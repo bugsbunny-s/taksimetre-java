@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class taksi {
+
+public class taksi{
     public static void main(String[] args){
         double km = 2.20 ,tl=10, mesafe, min = 20;
 
@@ -10,8 +11,5 @@ public class taksi {
         
         tl = mesafe * km;
         System.out.print(tl <= 20 ? "Ödemeniz gereken tutar : " + min : "Ödemeniz gereken tutar :" + tl);
-
-       
-         
     }
 }
