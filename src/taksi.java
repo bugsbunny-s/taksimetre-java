@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App {
+public class taksi {
     public static void main(String[] args){
         double km = 2.20 ,tl=10, mesafe, min = 20;
 
